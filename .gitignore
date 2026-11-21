@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+
+credentials.json
+token.json
+client_secret*.json
+
+brands.csv
+processed_leads.csv
+contact_form_messages.txt
+
+.env
+*.log

@@ -1,0 +1,26 @@
+Subject: Wholesale Enquiry – {product_description}
+
+Dear {brand_name} Team,
+
+I hope you are doing well.
+
+My name is {Owner's Name}, and I represent {Company Name}, a UK-based retail and e-commerce company primarily operating through Amazon UK.
+
+We are interested in purchasing {product_description} for resale in the UK and would like to explore the possibility of establishing a direct wholesale relationship with your company.
+
+Could you please provide the following information?
+
+- Wholesale pricing and minimum order quantities (MOQ)
+- Product availability and delivery lead times to the UK
+- Trade account opening requirements
+- Your complete wholesale product catalogue and price list, including EAN/barcodes
+- Contact details of authorised UK distributors, if direct supply is unavailable
+
+We are keen to establish a long-term business relationship and look forward to your response.
+
+Kind regards,
+
+Owner Name
+Company Name
+Company Email
+Contact Number
